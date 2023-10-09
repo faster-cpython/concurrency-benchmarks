@@ -1,0 +1,14 @@
+[project]
+name = "mandelbrot_interpreters"
+requires-python = ">=3.12"
+dependencies = [
+    "pyperf",
+]
+urls = {repository = "https://github.com/faster-cpython/..."}
+#urls = {repository = "https://github.com/python/pyperformance"}
+dynamic = ["version"]
+
+[tool.pyperformance]
+name = "mandelbrot_interpreters"
+tags = "apps"
+extra_opts = ["interpreters"]

@@ -1,0 +1,8 @@
+[benchmarks]
+
+name	metafile
+mandelbrot	<local>
+mandelbrot_threads	<local:mandelbrot>
+mandelbrot_interpreters	<local:mandelbrot>
+mandelbrot_multiprocessing	<local:mandelbrot>
+mandelbrot_async	<local:mandelbrot>
