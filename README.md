@@ -27,3 +27,25 @@ High-level (workload-oriented) benchmarks to consider:
 * [ ] image scaling or invert colors
 * [ ] decode audio file
 * [ ] use cases from https://peps.python.org/pep-0703/#motivation
+
+## Discussion
+
+### What Is Concurrency and Parallelism?
+
+...
+
+### What Are They Actually Good For?
+
+XXX enumerate use cases with examples
+
+
+### What Are the Best Approaches?
+
+XXX enumerate the approaches
+
+### The Python Story
+
+* how is it done in Python?  elsewhere?
+* how might free-threading/subinterpreters help?
+* how might they lead to new patterns in Python?
+* what new libraries/APIs might be useful?
