@@ -1,4 +1,4 @@
-(For discussion about concurrency, see https://github.com/ericsnowcurrently/concurrency-benchmarks/wiki.)
+(For discussion about concurrency, see https://github.com/faster-cpython/concurrency-benchmarks/wiki.)
 (For discussion about benchmarking, see https://github.com/faster-cpython/ideas/wiki/All-About-Python-Benchmarking.)
 
 # concurrency-benchmarks
